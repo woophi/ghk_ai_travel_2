@@ -30,7 +30,7 @@ export const App = () => {
             <Typography.Text view="primary-medium">Здравствуйте!</Typography.Text>
           </div>
           <div className={appSt.chatBubble({ position: 'middle' })}>
-            <Typography.Text view="primary-medium">Я ваш виртуальный турагент.</Typography.Text>
+            <Typography.Text view="primary-medium">Я ваш виртуальный помощник.</Typography.Text>
           </div>
           <div className={appSt.chatBubble({ position: 'bottom' })}>
             <Typography.Text view="primary-medium">
